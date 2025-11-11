@@ -41,18 +41,20 @@ In progress:
 
 ## 🎯 Featured Projects  
 
-### 1. [**Cloud Threat Detection Pipeline**](https://github.com/<your-github>/cloud-threat-detection)
-**Skills:** AWS Security Hub, GuardDuty, Lambda Automation  
+### 1. [**Biotech-Focused Cloud SOC (SOCaaS) Architecture**](https://github.com/nyahhepburn/gvrdc-aws-infra)
+**Skills:** Cloud SOC Architecture, AWS Security (GuardDuty, Security Hub), Automated Incident Response, Threat Hunting, MITRE ATT&CK, Compliance (HIPAA/GxP), AWS Organizations  
 
-Designed a **cloud-native detection pipeline** integrating AWS GuardDuty and Security Hub.  
-Automated remediation workflows using Lambda and SNS for real-time incident response.  
+Designed a multi-account AWS architecture (using AWS Organizations) to isolate production ("Ground Zero"), SOC tools ("Containment Lab"), and log archive ("Archive Ward") environments for a biotech firm.
+Architected a cloud-native detection pipeline to aggregate findings from AWS GuardDuty, Security Hub, and Inspector into a central SOC account.
+Planned automated containment playbooks using AWS Lambda and EventBridge to quarantine EC2 instances and respond to ransomware-style threats in real-time.  
 
 **Key Achievements:**  
-- Reduced manual triage time by 70%  
-- Mapped 25+ detection rules to **MITRE ATT&CK**  
-- Built automated ticket creation in Jira via Lambda integration  
+- Developed domain-aware detection logic mapped to MITRE ATT&CK for biotech-specific threats (e.g., anomalous genomic data access, research database exfiltration).
+- Integrated HIPAA and FDA/GxP compliance requirements directly into the SOC architecture, logging standards, and automated response playbooks.
+- Designed a centralized logging and threat-hunting solution using S3, CloudTrail, and Amazon Athena to query for adversary TTPs.
+- Produced a complete project charter, 6-sprint roadmap, RACI matrix, and detailed service topology for the SOCaaS build-out. 
 
-**Tools:** AWS Security Hub, GuardDuty, Lambda, CloudWatch, SNS  
+**Tools:** AWS Organizations, GuardDuty, Security Hub, Inspector, Detective, Lambda, Step Functions, EventBridge, Athena, S3, CloudTrail, MITRE ATT&CK, NIST, Terraform (planned)  
 
 ---
 
