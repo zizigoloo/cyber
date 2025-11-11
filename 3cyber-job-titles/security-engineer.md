@@ -86,7 +86,7 @@ Analyzed logs, identified initial vector, and implemented post-incident improvem
 
 --
 
-### 4. [**EC2 Compromise & Remediation**](https://github.com/<your-github>/incident-response-lab)
+### 4. [**EC2 Compromise & Remediation**]((https://github.com/zizigoloo/aws-lab-scripts/tree/main))
 **Skills:** Terraform (IaC), AWS GuardDuty, Security Hub, EC2, VPC, CloudWatch  
 
 Designed and deployed a multi-account AWS lab environment using Terraform to simulate EC2 compromise scenarios.
