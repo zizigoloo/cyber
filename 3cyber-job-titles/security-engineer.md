@@ -58,37 +58,23 @@ Planned automated containment playbooks using AWS Lambda and EventBridge to quar
 
 ---
 
-### 2. [**Network Security Architecture Lab**](https://github.com/<your-github>/network-security-lab)
-**Skills:** Network Segmentation, Firewall Configuration, IDS/IPS  
+### 2. [**Network Attack & Defense Simulation**](https://github.com/<your-github>/network-security-lab)
+**Skills:** Network Security Monitoring (NSM), Intrusion Detection (IDS), pfSense Configuration, Virtualization, Red Team (Scanning), Blue Team (Alert Analysis)
 
-Built a secure enterprise network topology with **segmented LANs and DMZ**, protected by pfSense and Suricata.  
-Configured **VPN access**, firewall rules, and IDS alerts to monitor malicious activity.  
+Built an isolated, multi-VM lab (Attacker, Target, Firewall) using Oracle VirtualBox and an internal-only network.
+Deployed and configured pfSense as the network firewall/gateway and integrated Snort as a package for intrusion detection on the LAN interface.
+Executed simulated attacks from a Kali Linux machine (using Nmap and Nikto) against a Metasploitable2 target to test the defensive monitoring setup.
 
 **Key Achievements:**  
-- Reduced network exposure by 65% through segmentation  
-- Deployed custom Snort rules for anomaly detection  
-- Documented full network topology and rulebase  
+- Successfully configured the network to route all attacker (Kali) and victim (Metasloitable2) traffic through the pfSense IDS for complete inspection.
+- Generated and validated real-time Snort alerts that correctly identified Nmap TCP scans and Nikto web vulnerability scanning patterns.
+- Created a reusable lab to demonstrate the practical application of network topology, DHCP, routing, and interpreting IDS alerts. 
 
-**Tools:** pfSense, Suricata, OpenVPN, Wireshark, GNS3  
-
----
-
-### 3. [**Incident Response Simulation – Ransomware Attack**](https://github.com/<your-github>/incident-response-lab)
-**Skills:** Digital Forensics, Threat Analysis, Reporting  
-
-Simulated a ransomware outbreak in a virtual environment to test incident response capabilities.  
-Analyzed logs, identified initial vector, and implemented post-incident improvements.  
-
-**Highlights:**  
-- Contained the attack within 10 minutes of detection  
-- Generated detailed IR report with IOCs and timeline  
-- Created reusable IR playbook for internal use  
-
-**Tools:** Splunk, Autopsy, Volatility, Wireshark  
+**Tools:** Oracle VirtualBox, pfSense, Snort, Kali Linux, Nmap, Nikto, Metasploitable2
 
 --
 
-### 4. [**EC2 Compromise & Remediation**](https://github.com/zizigoloo/aws-lab-scripts)
+### 3. [**EC2 Compromise & Remediation**](https://github.com/zizigoloo/aws-lab-scripts)
 **Skills:** Terraform (IaC), AWS GuardDuty, Security Hub, EC2, VPC, CloudWatch  
 
 Designed and deployed a multi-account AWS lab environment using Terraform to simulate EC2 compromise scenarios.
