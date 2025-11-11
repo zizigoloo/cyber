@@ -1,11 +1,9 @@
-# 🛡️ <ENTER YOUR FULL NAME> YOUR NAME
-## 👨‍💻 SECURITY ENGINEER | Cloud & Network Security | Ethical Hacker | Problem Solver  
+# 🛡️ Zeinab Ramezan Ali
+## 👨‍💻 SECURITY ENGINEER | Cloud & Network Security | Problem Solver  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<your-linkedin>)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<your-github>)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/<your-username>)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<your-id>)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<your-email>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<www.linkedin.com/in/rmaliz>)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<zizigoloo>)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<zynbnr4@gmail.com>)
 
 ---
 
@@ -22,27 +20,22 @@ Currently advancing my expertise in **cloud-native security**, **zero trust fram
 
 ## 🧠 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,azure,python,bash,powershell,terraform,docker,kubernetes,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,azure,python,bash,powershell,terraform,docker,git,github,vscode)](https://skillicons.dev)
 
 **Core Competencies**  
 - Cloud Security (AWS | Azure | GCP)  
-- SIEM & Threat Detection (Splunk | ELK | Wazuh)  
+- SIEM & Threat Detection (Splunk | Wazuh)  
 - Network Defense & Firewall Management (pfSense | Suricata | Snort)  
 - Incident Response & Digital Forensics  
 - Security Automation (Python, Bash, PowerShell)  
 - Identity & Access Management (IAM, SSO, MFA)  
 
 **Certifications**  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red)
+In progress: 
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red) 
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)
 ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-black)
 ![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified%20Security%20Engineer-blue)
-
-**Badges & Labs**  
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_Level_1-blue)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Cloud_Security-green)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Member-orange)
-![Cybrary](https://img.shields.io/badge/Cybrary-Incident_Response-yellow)
 
 ---
 
