@@ -72,7 +72,7 @@ Executed simulated attacks from a Kali Linux machine (using Nmap and Nikto) agai
 
 **Tools:** Oracle VirtualBox, pfSense, Snort, Kali Linux, Nmap, Nikto, Metasploitable2
 
---
+---
 
 ### 3. [**EC2 Compromise & Remediation**](https://github.com/zizigoloo/aws-lab-scripts)
 **Skills:** Terraform (IaC), AWS GuardDuty, Security Hub, EC2, VPC, CloudWatch  
@@ -104,8 +104,8 @@ Developed automation scripts (PowerShell/Bash) to simulate attacks and configure
 
 ## 🏆 Achievements  
 
-- 🥇 Built secure AWS infrastructure with GuardDuty and Config monitoring  
-- 🏅 Cybersecurity Fellowship Graduate  
+-  Built secure AWS infrastructure with GuardDuty and Config monitoring  
+-  Cybersecurity Fellowship Graduate  
 
 ---
 
@@ -125,9 +125,9 @@ Developed automation scripts (PowerShell/Bash) to simulate attacks and configure
 
 ## 📞 Contact & Links  
 
-📧 **Email:** [<your-email>](mailto:<zynbnr4@gmail.com>)  
-💼 **LinkedIn:** [linkedin.com/in/<your-linkedin>](www.linkedin.com/in/rmaliz)  
-💻 **GitHub:** [github.com/<your-github>](https://github.com/<your-zizigoloo>)  
+📧 **Email:** [<zynbnr4@gmail.com>](mailto:<zynbnr4@gmail.com>)  
+💼 **LinkedIn:** [linkedin.com/in/rmaliz](www.linkedin.com/in/rmaliz)  
+💻 **GitHub:** [github.com/zizigoloo](https://github.com/zizigoloo)  
 
 ---
 
@@ -137,17 +137,7 @@ All research, labs, and tests showcased here were conducted in **authorized lab 
 
 ---
 
-## ⭐ Pinned Repositories  
 
-| Repository | Description | Tools & Skills |
-|-------------|--------------|----------------|
-| [cloud-threat-detection](https://github.com/<your-github>/cloud-threat-detection) | AWS-based detection and response pipeline | GuardDuty, Lambda |
-| [network-security-lab](https://github.com/<your-github>/network-security-lab) | Segmented network with IDS/IPS and VPN | pfSense, Suricata |
-| [incident-response-lab](https://github.com/<your-github>/incident-response-lab) | Ransomware IR simulation with forensic analysis | Splunk, Volatility |
-| [vuln-scanner-pro](https://github.com/<your-github>/vuln-scanner-pro) | Automated vulnerability detection and reporting | Python, APIs |
-| [soc-automation-playbook](https://github.com/<your-github>/soc-automation-playbook) | Automated alerting & triage | Splunk SDK, Python |
-
----
 
 *Last Updated: November 2025*  
 
