@@ -84,19 +84,32 @@ Analyzed logs, identified initial vector, and implemented post-incident improvem
 
 **Tools:** Splunk, Autopsy, Volatility, Wireshark  
 
+--
+
+### 4. [**EC2 Compromise & Remediation**](https://github.com/<your-github>/incident-response-lab)
+**Skills:** Terraform (IaC), AWS GuardDuty, Security Hub, EC2, VPC, CloudWatch  
+
+Designed and deployed a multi-account AWS lab environment using Terraform to simulate EC2 compromise scenarios.
+Integrated AWS GuardDuty for automated threat detection and AWS Security Hub for centralized security finding analysis.
+Developed automation scripts (PowerShell/Bash) to simulate attacks and configure the lab environment.  
+
+**Highlights:**  
+- Built a reusable, fully automated lab (Infrastructure as Code) for hands-on security training and demonstrations.
+- Configured real-time threat alerting by forwarding GuardDuty findings to SNS notifications. 
+
+**Tools:** Terraform, AWS GuardDuty, AWS Security Hub, AWS EC2, AWS VPC, AWS IAM, CloudWatch, SNS, PowerShell, Bash
+
 ---
 
 ## 🛠️ Additional Skills  
 
 ### Security Tools & Platforms  
-- **SOC Tools:** Wazuh, Splunk, ELK, Security Onion  
-- **Vulnerability Scanners:** Nessus, OpenVAS, Qualys  
-- **Pen Testing:** Nmap, Metasploit, Burp Suite, SQLMap  
-- **Forensics:** FTK Imager, Volatility, KAPE, Autopsy  
+- **SOC Tools:** Wazuh, Splunk, Security Onion
+- **Pen Testing:** Nmap, Metasploit, Burp Suite 
 
 ### Scripting & Infrastructure  
 - **Languages:** Python, Bash, PowerShell  
-- **Automation:** Terraform, Ansible, GitHub Actions  
+- **Automation:** Terraform,  GitHub Actions  
 - **Cloud Services:** EC2, S3, IAM, CloudTrail, Azure Defender  
 
 ---
@@ -104,9 +117,7 @@ Analyzed logs, identified initial vector, and implemented post-incident improvem
 ## 🏆 Achievements  
 
 - 🥇 Built secure AWS infrastructure with GuardDuty and Config monitoring  
-- 🥈 Completed 100+ rooms on TryHackMe (Top 10%)  
-- 🏅 Cybersecurity Fellowship Graduate (Capstone: Cloud Threat Detection Pipeline)  
-- 🎓 Certified in Network and Cloud Security Fundamentals  
+- 🏅 Cybersecurity Fellowship Graduate  
 
 ---
 
@@ -120,31 +131,21 @@ Analyzed logs, identified initial vector, and implemented post-incident improvem
 
 **Recent Training:**  
 - Coursera – Google Cybersecurity Professional Certificate  
-- SANS SEC511 – Continuous Monitoring & Detection  
 - TryHackMe – Cloud Security Engineer Path  
 
 ---
 
 ## 📞 Contact & Links  
 
-📧 **Email:** [<your-email>](mailto:<your-email>)  
-💼 **LinkedIn:** [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
-💻 **GitHub:** [github.com/<your-github>](https://github.com/<your-github>)  
-🧩 **TryHackMe:** [tryhackme.com/p/<your-username>](https://tryhackme.com/p/<your-username>)  
-🔐 **HackTheBox:** [hackthebox.com/home/users/profile/<your-id>](https://hackthebox.com/home/users/profile/<your-id>)  
+📧 **Email:** [<your-email>](mailto:<zynbnr4@gmail.com>)  
+💼 **LinkedIn:** [linkedin.com/in/<your-linkedin>](www.linkedin.com/in/rmaliz)  
+💻 **GitHub:** [github.com/<your-github>](https://github.com/<your-zizigoloo>)  
 
 ---
 
 ## 🗒️ Disclaimer  
 
 All research, labs, and tests showcased here were conducted in **authorized lab environments** following **ethical hacking** practices and compliance standards.
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github>&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github>&layout=compact&theme=dark)  
 
 ---
 
@@ -162,4 +163,4 @@ All research, labs, and tests showcased here were conducted in **authorized lab 
 
 *Last Updated: November 2025*  
 
-> _"Security is not about perfection—it’s about resilience."_ — **<ENTER YOUR FULL NAME>**
+> _"Security is not about perfection—it’s about resilience."_ — **<ENTER Zeinab Ramezan Ali>**
